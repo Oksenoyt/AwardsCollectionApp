@@ -48,7 +48,6 @@ struct HeartView: View {
             .onAppear {
                 animationAmount = 1.2
             }
-            
         }
     }
 }
